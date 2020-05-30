@@ -1,0 +1,11 @@
+void initGrid(int,int);
+void display_message(const char *text, int length);
+void render_board();
+void plot_player(int position);
+int roll_dice();
+void init_snakes_ladders();
+void rain();
+void remove_fire();
+void road();
+void update_piece();
+//void jump();
